@@ -8,6 +8,7 @@ public class Linguagem {
 
     @Id
     private String id;
+    
     private String title;
     private String image;
     private int ranking;
