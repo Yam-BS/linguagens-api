@@ -1,7 +1,6 @@
 <h1>API de linguagens de programação</h1>
 <p align="left">
   <img alt="GitHub status" src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Yam-BS/linguagens-api">
 </p>
 
 <p>Este projeto consiste em uma API Rest para expor determinado conteúdo, no nosso caso, algumas linguagens de programação. Para o seu desenvolvimento foram utilizadas ferramentas profissionais como o Spring Framework e um banco de dados NoSQL. Para tornar a aplicação acessível por qualquer pessoa, foi feito o deploy na nuvem. Além disso, é possível gerar figurinhas para Whatsapp a partir do conteúdo dessa API.</p>
@@ -12,7 +11,8 @@
   <p>Figurinha gerada à partir da API</p>
 </div>
 
-<p><b>Quer saber como gerei figurinhas como essa? Aqui no meu GitHub existe um projeto com essa função. Você pode acessá-lo por <a href="https://github.com/Yam-BS/alura-stickers">aqui</a></b></p>
+<br/>
+<p>&#x1F4A1<b>Quer saber como gerei figurinhas como essa? Aqui no meu GitHub existe um projeto com essa função. Você pode acessá-lo por <a href="https://github.com/Yam-BS/alura-stickers">aqui</a></b></p>
 
 <h2>&#x1F528 Funcionalidades do projeto</h2>
 
