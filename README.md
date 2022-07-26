@@ -12,7 +12,7 @@
 </div>
 
 <br/>
-<p>&#x1F4A1<b>Quer saber como gerei figurinhas como essa? Aqui no meu GitHub existe um projeto com essa função. Você pode acessá-lo por <a href="https://github.com/Yam-BS/alura-stickers">aqui</a></b></p>
+<p>&#x1F4A1<b>Quer saber como gerei figurinhas como essa? Aqui no meu GitHub existe um projeto com essa função. Você pode acessá-lo por <a href="https://github.com/Yam-BS/alura-stickers" target="_blank">aqui</a></b></p>
 
 <h2>&#x1F528 Funcionalidades do projeto</h2>
 
