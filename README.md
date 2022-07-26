@@ -34,4 +34,4 @@
 </ul>
 
 <h2>&#x1F4C1 Acesso ao projeto</h2>
-<p>Você pode <a href="https://github.com/Yam-BS/linguagens-api/tree/master/src/main/java/br/com/alura/linguagensapi">acessar o código-fonte do projeto</a> ou <a href="https://github.com/Yam-BS/linguagens-api/archive/refs/heads/master.zip">baixá-lo</a></p>
+<p>Você pode acessar diretamente a API <a href="https://alura-linguage-api.herokuapp.com/linguagens">aqui</a>. Você também pode <a href="https://github.com/Yam-BS/linguagens-api/tree/master/src/main/java/br/com/alura/linguagensapi">acessar o código-fonte do projeto</a> ou <a href="https://github.com/Yam-BS/linguagens-api/archive/refs/heads/master.zip">baixá-lo</a></p>
